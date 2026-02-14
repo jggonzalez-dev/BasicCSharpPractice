@@ -1,0 +1,14 @@
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\bin\Debug\net10.0\BasicCSharpPractice.exe
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\bin\Debug\net10.0\BasicCSharpPractice.deps.json
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\bin\Debug\net10.0\BasicCSharpPractice.runtimeconfig.json
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\bin\Debug\net10.0\BasicCSharpPractice.dll
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\bin\Debug\net10.0\BasicCSharpPractice.pdb
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\obj\Debug\net10.0\BasicCSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\obj\Debug\net10.0\BasicCSharpPractice.AssemblyInfoInputs.cache
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\obj\Debug\net10.0\BasicCSharpPractice.AssemblyInfo.cs
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\obj\Debug\net10.0\BasicCSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\obj\Debug\net10.0\BasicCSharpPractice.dll
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\obj\Debug\net10.0\refint\BasicCSharpPractice.dll
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\obj\Debug\net10.0\BasicCSharpPractice.pdb
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\obj\Debug\net10.0\BasicCSharpPractice.genruntimeconfig.cache
+C:\Users\nanad\Downloads\BasicCSharpPractice\BasicCSharpPractice\obj\Debug\net10.0\ref\BasicCSharpPractice.dll
